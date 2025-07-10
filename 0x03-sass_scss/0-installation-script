@@ -1,0 +1,5 @@
+Steps i took to install sass
+
+- I already have node js installed, i only did node -v to confirm the version
+- To install sass, i ran the command npm intsall -g sass
+- To confirm installation, i ran sass --version
